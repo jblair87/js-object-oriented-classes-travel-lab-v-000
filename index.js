@@ -27,7 +27,8 @@ blocksTravelled(){
           this.avenueToInteger(this.beginningLocation.horizontal);
       let verticalDistance =
  this.beginningLocation.vertical - this.endingLocation.vertical;
- 
+     return Math.abs(horizontalDistance) + Math.abs(verticalDistance);
+
 }
 
 }
