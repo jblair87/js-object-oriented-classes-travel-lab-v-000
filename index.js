@@ -24,7 +24,7 @@ blocksTravelled(){
       this.avenueToInteger(this.endingLocation.horizontal) -
           this.avenueToInteger(this.beginningLocation.horizontal);
       let verticalDistance =
-   this.avenueToInteger(this.beginningnLocation.vertical) -
+   this.avenueToInteger(this.beginningLocation.vertical) -
  this.avenueToInteger(this.endingLocation.vertical);
 }
 
