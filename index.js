@@ -21,6 +21,8 @@ class Route {
 }
 blocksTravelled(){
       let horizontalDistance =
+      let verticalDistance =
+
 
   
   
